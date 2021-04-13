@@ -6,7 +6,7 @@ The aim of this exercise is to provide a carousel using the technologies of Boot
 
 As a user, I would expect indicators on the carousel.
 
-As a user, I would expect captions on the carousel on medium-sized devices.
+As a user, I would expect captions on the carousel on medium-sized devices.  The captions would include the location (e.g. Wendover Road, Bromley) and when it was taken (e.g. 19 September 2020).
 
 The [images](images/) are supplied.
 
