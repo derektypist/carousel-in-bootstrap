@@ -16,7 +16,7 @@ There are indicators as well as previous and next buttons.
 
 ## Technologies
 
-This project uses HTML5, CSS3, Bootstrap 5.0.0-beta3 and Google Fonts (e.g. Nanum Gothic).
+This project uses HTML5, CSS3, Bootstrap 5.0.0-beta3 and Google Fonts (e.g. Nanum Gothic).  Includes Popper and then the Bootstrap JavaScript Plugins.
 
 ## Testing
 
