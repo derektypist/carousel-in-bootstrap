@@ -14,7 +14,7 @@ The [images](images/) are supplied.
 
 There are indicators as well as previous and next buttons.
 
-## technologies
+## Technologies
 
 This project uses HTML5, CSS3, Bootstrap 5.0.0-beta3 and Google Fonts (e.g. Nanum Gothic).
 
