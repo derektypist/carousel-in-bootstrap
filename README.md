@@ -12,7 +12,7 @@ The [images](images/) are supplied.
 
 ## Features
 
-There are indicators as well as previous and next buttons.
+There are indicators as well as left and right controls.  The captions are hidden on smaller-sized devices, but they are displayed on medium-sized devices.
 
 ## Technologies
 
@@ -24,7 +24,7 @@ Ensure that user stories have been met.
 
 ## Deployment
 
-Deployed on [GitHub Pages] at the main branch.  To update any changes, use the command:
+Deployed on [GitHub Pages](https://derektypist.github.io/carousel-in-bootstrap) at the main branch.  To update any changes, use the command:
 
     git push
 
